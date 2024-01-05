@@ -6,6 +6,7 @@
     overflow: hidden;
     position: relative;
     /* border: 1px solid red; */
+    /* background-color: rgb(30,30,30); */
 }
 .bg {
     position: absolute;
